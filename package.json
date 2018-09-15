@@ -1,0 +1,22 @@
+{
+  "name": "js-complete-udemy",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkelly/udemy-js-complete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamkelly/udemy-js-complete/issues"
+  },
+  "homepage": "https://github.com/williamkelly/udemy-js-complete#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0"
+  }
+}
